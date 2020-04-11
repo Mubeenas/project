@@ -1,0 +1,67 @@
+2020-04-11 10:01:36.060 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:03:29.846 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:03:32.034 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 10:03:36.978 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 10:03:40.968 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:52)] - availble
+2020-04-11 10:03:41.843 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:56)] - ScreenShot took Successfully
+2020-04-11 10:06:39.048 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:06:42.393 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 10:06:57.029 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 10:06:59.115 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:52)] - availble
+2020-04-11 10:06:59.865 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:56)] - ScreenShot took Successfully
+2020-04-11 10:12:55.986 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:12:56.974 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 10:13:00.544 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 10:13:02.184 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:52)] - availble
+2020-04-11 10:13:02.594 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:56)] - ScreenShot took Successfully
+2020-04-11 10:15:24.289 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:15:25.146 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 10:15:29.168 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 10:15:29.736 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:49)] - ScreenShot took Successfully
+2020-04-11 10:15:31.352 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:59)] - availble
+2020-04-11 10:15:32.100 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:63)] - ScreenShot took Successfully
+2020-04-11 10:18:37.382 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 10:18:38.190 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 10:18:42.491 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 10:18:43.029 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:49)] - ScreenShot took Successfully
+2020-04-11 10:18:44.393 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:59)] - availble
+2020-04-11 14:33:48.767 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:32)] - launched the application
+2020-04-11 14:36:03.215 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:32)] - launched the application
+2020-04-11 14:37:04.109 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 14:37:06.063 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 14:37:10.280 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 14:38:33.554 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 14:38:34.792 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 14:38:40.173 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 14:41:01.485 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 14:41:02.861 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 14:41:21.234 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 14:41:22.973 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:55)] - availble
+2020-04-11 14:41:23.600 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:61)] - ScreenShot took Successfully
+2020-04-11 15:02:39.460 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 15:02:40.991 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 15:02:52.343 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 15:02:55.838 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:55)] - availble
+2020-04-11 15:02:56.389 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:61)] - ScreenShot took Successfully
+2020-04-11 16:07:38.379 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:24)] - Browser is Launched
+2020-04-11 16:07:41.250 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:33)] - Login Page is Called
+2020-04-11 16:07:41.928 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:40)] - Entered Username and Password
+2020-04-11 16:07:42.233 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:46)] - Clicked on Signin Button
+2020-04-11 16:07:43.372 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:51)] - ScreenShot took Successfully
+2020-04-11 16:07:59.373 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:32)] - launched the application
+2020-04-11 16:08:20.484 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:27)] - launched the browser
+2020-04-11 16:08:24.698 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:39)] - homepage is opened
+2020-04-11 16:08:26.506 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:47)] - tracked the product
+2020-04-11 16:08:28.428 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:55)] - clicked on submit
+2020-04-11 16:08:28.988 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:58)] - ScreenShot took Successfully
+2020-04-11 16:09:33.042 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:26)] - launched the browser
+2020-04-11 16:09:34.787 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:35)] - wishlist opened
+2020-04-11 16:09:53.486 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
+2020-04-11 16:09:56.844 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:55)] - availble
+2020-04-11 16:09:58.734 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:61)] - ScreenShot took Successfully
+2020-04-11 16:13:32.930 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:32)] - launched the application
+2020-04-11 16:15:38.553 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:32)] - launched the application
+2020-04-11 16:15:43.566 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:44)] - user logged into the home page
+2020-04-11 16:15:48.026 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:52)] - user searched the product
+2020-04-11 16:15:48.106 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:61)] - clicked enter
+2020-04-11 16:15:48.545 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:65)] - ScreenShot took Successfully
