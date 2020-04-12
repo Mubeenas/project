@@ -47,7 +47,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Apr 12, 2020 03:59:46 PM</span>
+                    <span class='label suite-start-time blue darken-3'>Apr 12, 2020 07:29:06 PM</span>
 				</a>
 			</li>
 			<li>
@@ -90,6 +90,7 @@
 					<li><a href='#'>@TC_02_crossword</a></li>
 					<li><a href='#'>@TC_03_crossword</a></li>
 					<li><a href='#'>@TC_04_crossword</a></li>
+					<li><a href='#'>@TC_05_crossword</a></li>
 					<li class='divider'></li>
 					<li class='clear'><a href='#!' clear='true'>Clear Filters</a></li>
 				</ul>
@@ -152,7 +153,7 @@
 					<canvas id='child-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>4</span> scenario(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>5</span> scenario(s) passed</span>
 				</div>
 				<div class='block text-small'>
 					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> scenario(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
@@ -167,7 +168,7 @@
 					<canvas id='grandchild-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>16</span> step(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>19</span> step(s) passed</span>
 				</div>
 				<div class='block text-small'>
 					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
@@ -187,12 +188,12 @@
 				<li class='test displayed active has-leaf pass' status='pass' bdd='true' test-id='1'>
 					<div class='test-heading'>
 						<span class='test-name'>crossword website</span>
-						<span class='test-time'>Apr 12, 2020 03:59:47 PM</span>
+						<span class='test-time'>Apr 12, 2020 07:29:07 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='scenariooutline node' test-id='2' status='pass'>
-	<span class='duration right label'>0h 0m 24s+75ms</span>
+	<span class='duration right label'>0h 0m 48s+569ms</span>
 	<div class='desc'>
 		<b>ScenarioOutline</b>
 		<span class="desc-text">validate Login Functionality</span>
@@ -233,7 +234,7 @@
 	<div class='category-list'>
 		<span class='category label white-text'>@TC_02_crossword</span>
 	</div>
-	<span class='duration right label'>0h 0m 23s+375ms</span>
+	<span class='duration right label'>0h 1m 3s+167ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">Login and search products</span>
@@ -277,7 +278,7 @@
 	<div class='category-list'>
 		<span class='category label white-text'>@TC_03_crossword</span>
 	</div>
-	<span class='duration right label'>0h 0m 29s+319ms</span>
+	<span class='duration right label'>0h 1m 11s+899ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">Login and Track Products</span>
@@ -321,7 +322,7 @@
 	<div class='category-list'>
 		<span class='category label white-text'>@TC_04_crossword</span>
 	</div>
-	<span class='duration right label'>0h 2m 4s+734ms</span>
+	<span class='duration right label'>0h 2m 24s+942ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">wishlist</span>
@@ -356,6 +357,42 @@
 			<b>Then</b>
 			
 			<span class="bdd-step-name">Then tell me available</span>
+				<div class='pre'>passed</div>
+			
+		</li>
+	</ul>
+</div>
+<div class='scenario node' test-id='23' status='pass'>
+	<div class='category-list'>
+		<span class='category label white-text'>@TC_05_crossword</span>
+	</div>
+	<span class='duration right label'>0h 0m 39s+691ms</span>
+	<div class='desc'>
+		<b>Scenario</b>
+		<span class="desc-text">Logout</span>
+	</div>
+	<ul class='steps'>
+		<li test-id='24' class='node given pass' status='pass'>
+			
+			<b>Given</b>
+			
+			<span class="bdd-step-name">Given launched the browser</span>
+				<div class='pre'>passed</div>
+			
+		</li>
+		<li test-id='25' class='node when pass' status='pass'>
+			
+			<b>When</b>
+			
+			<span class="bdd-step-name">When login is opened</span>
+				<div class='pre'>passed</div>
+			
+		</li>
+		<li test-id='26' class='node then pass' status='pass'>
+			
+			<b>Then</b>
+			
+			<span class="bdd-step-name">Then logout the page</span>
 				<div class='pre'>passed</div>
 			
 		</li>
@@ -438,12 +475,12 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>Apr 12, 2020 03:59:47 PM</td>
+										<td>Apr 12, 2020 07:29:07 PM</td>
 										<td class='linked' test-id='1'>crossword website</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
 									<tr>
-										<td>Apr 12, 2020 03:59:47 PM</td>
+										<td>Apr 12, 2020 07:29:07 PM</td>
 										<td class='linked' test-id='3'>crossword website.validate Login Functionality.validate Login Functionality</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
@@ -477,7 +514,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>Apr 12, 2020 03:59:47 PM</td>
+										<td>Apr 12, 2020 07:29:07 PM</td>
 										<td class='linked' test-id='3'>crossword website.validate Login Functionality.validate Login Functionality</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
@@ -511,7 +548,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>Apr 12, 2020 04:00:11 PM</td>
+										<td>Apr 12, 2020 07:29:55 PM</td>
 										<td class='linked' test-id='8'>crossword website.Login and search products</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
@@ -545,7 +582,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>Apr 12, 2020 04:00:34 PM</td>
+										<td>Apr 12, 2020 07:30:58 PM</td>
 										<td class='linked' test-id='13'>crossword website.Login and Track Products</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
@@ -579,8 +616,42 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>Apr 12, 2020 04:01:03 PM</td>
+										<td>Apr 12, 2020 07:32:10 PM</td>
 										<td class='linked' test-id='18'>crossword website.wishlist</td>
+										<td><span class='test-status pass'>pass</span></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</li>
+				<li class='category displayed active'>
+					<div class='category-heading'>
+						<span class='category-name'>@TC_05_crossword</span>
+						<span class='category-status right'>
+							<span class='label pass'>1</span>
+						</span>
+					</div>
+					<div class='category-content hide'>
+						<div class='category-status-counts'>
+							<span class='label green accent-4 white-text'>Passed: 1</span>
+							
+							
+						</div>
+					
+						<div class='category-tests'>
+							<table class='bordered table-results'>
+								<thead>
+									<tr>
+										<th>Timestamp</th>
+										<th>TestName</th>
+										<th>Status</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>Apr 12, 2020 07:34:35 PM</td>
+										<td class='linked' test-id='23'>crossword website.Logout</td>
 										<td><span class='test-status pass'>pass</span></td>
 									</tr>
 								</tbody>
@@ -615,31 +686,31 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Scenarios
-					<div class='panel-lead'>4</div>
+					<div class='panel-lead'>5</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Steps
-					<div class='panel-lead'>16</div>
+					<div class='panel-lead'>19</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Apr 12, 2020 03:59:46 PM</div>
+					<div class='panel-lead'>Apr 12, 2020 07:29:06 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Apr 12, 2020 04:03:09 PM</div>
+			 		<div class='panel-lead'>Apr 12, 2020 07:35:16 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>202,513ms</div>
+					<div class='panel-lead'>369,425ms</div>
 				</div>
 			</div>
 			<div class='col s4'>
@@ -735,6 +806,15 @@
 									100%
 							</td>
 						</tr>
+						<tr>
+							<td>@TC_05_crossword</td>
+							<td>1</td>
+							<td>0</td>
+							<td>0</td>
+							<td>
+									100%
+							</td>
+						</tr>
 					</table>
 				</div>
 			</div>
@@ -756,7 +836,7 @@
 				skipParent: 0,
 				exceptionsParent: 0,
 				
-				passChild: 4,
+				passChild: 5,
 				failChild: 0,
 				fatalChild: 0,
 				errorChild: 0,
@@ -765,7 +845,7 @@
 				infoChild: 0,
 				exceptionsChild: 0,
 				
-				passGrandChild: 16,
+				passGrandChild: 19,
 				failGrandChild: 0,
 				fatalGrandChild: 0,
 				errorGrandChild: 0,

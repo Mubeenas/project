@@ -36,3 +36,17 @@ When wishlist page is opened
 Then continue shopping
 Then tell me available
 
+@TC_05_crossword
+Scenario: Logout
+Given launched the browser
+When login is opened
+Then logout the page
+
+
+
+
+
+
+
+
+

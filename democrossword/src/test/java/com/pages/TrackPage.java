@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import com.pages.LoginPage;
 
 public class TrackPage {
-	By Track=By.xpath("//*[@id=\"hd\"]/div/div/div/div[1]/div/div[2]/div[1]/a[6]");	
+    By Track=By.xpath("//*[@id=\"hd\"]/div/div/div[2]/div[1]/div/div[2]/div[1]/a[5]");	
 	By order=By.xpath("//*[@id=\"order_id\"]");
 	
 	
@@ -28,7 +28,7 @@ public class TrackPage {
 	
 	public void Track_product()
 	{
-	driver.findElement(Track).click();
+	driver.findElement(By.linkText("Track Your Order")).click();
 	}
 	public void ordernumber()
 	{

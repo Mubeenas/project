@@ -117,14 +117,14 @@ formatter.match({
   "location": "Login.i_launch_the_browser_and_enter_the_url()"
 });
 formatter.result({
-  "duration": 21284390400,
+  "duration": 39756927200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.login_page_is_opened()"
 });
 formatter.result({
-  "duration": 1329726000,
+  "duration": 6188399600,
   "status": "passed"
 });
 formatter.match({
@@ -141,14 +141,14 @@ formatter.match({
   "location": "Login.i_enter_the__and(String,String)"
 });
 formatter.result({
-  "duration": 417702500,
+  "duration": 1594868900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.i_click_on_the_signin_button()"
 });
 formatter.result({
-  "duration": 740613200,
+  "duration": 685070100,
   "status": "passed"
 });
 formatter.scenario({
@@ -189,28 +189,28 @@ formatter.match({
   "location": "Search.user_launch_the_chrome_application()"
 });
 formatter.result({
-  "duration": 14587708800,
+  "duration": 42825379400,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.the_user_loggedin_to_the_home_page()"
 });
 formatter.result({
-  "duration": 5157155900,
+  "duration": 10649883500,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.the_user_search_the_product()"
 });
 formatter.result({
-  "duration": 3089802700,
+  "duration": 9189985100,
   "status": "passed"
 });
 formatter.match({
   "location": "Search.search_result_are_displayed()"
 });
 formatter.result({
-  "duration": 526458900,
+  "duration": 497137400,
   "status": "passed"
 });
 formatter.scenario({
@@ -251,28 +251,28 @@ formatter.match({
   "location": "Track.launch_the_browser()"
 });
 formatter.result({
-  "duration": 18853780900,
+  "duration": 38814454500,
   "status": "passed"
 });
 formatter.match({
   "location": "Track.the_login_homepage_is_opened()"
 });
 formatter.result({
-  "duration": 5973929300,
+  "duration": 13526626200,
   "status": "passed"
 });
 formatter.match({
   "location": "Track.the_user_track_the_product()"
 });
 formatter.result({
-  "duration": 2244870100,
+  "duration": 15560921900,
   "status": "passed"
 });
 formatter.match({
   "location": "Track.click_on_submit_button()"
 });
 formatter.result({
-  "duration": 2233396400,
+  "duration": 3971522900,
   "status": "passed"
 });
 formatter.scenario({
@@ -313,28 +313,78 @@ formatter.match({
   "location": "Seller.launch_the_browser()"
 });
 formatter.result({
-  "duration": 83614980400,
+  "duration": 79747078600,
   "status": "passed"
 });
 formatter.match({
   "location": "Seller.wishlist_page_is_opened()"
 });
 formatter.result({
-  "duration": 9224158400,
+  "duration": 7229527600,
   "status": "passed"
 });
 formatter.match({
   "location": "Seller.continue_shopping()"
 });
 formatter.result({
-  "duration": 22400015600,
+  "duration": 49952568100,
   "status": "passed"
 });
 formatter.match({
   "location": "Seller.tell_me_available()"
 });
 formatter.result({
-  "duration": 9450386600,
+  "duration": 8002362800,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 40,
+  "name": "Logout",
+  "description": "",
+  "id": "crossword-website;logout",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 39,
+      "name": "@TC_05_crossword"
+    }
+  ]
+});
+formatter.step({
+  "line": 41,
+  "name": "launched the browser",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 42,
+  "name": "login is opened",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 43,
+  "name": "logout the page",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Logoutt.launched_the_browser()"
+});
+formatter.result({
+  "duration": 26260748300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Logoutt.login_is_opened()"
+});
+formatter.result({
+  "duration": 7447353500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Logoutt.logout_the_page()"
+});
+formatter.result({
+  "duration": 5974425700,
   "status": "passed"
 });
 });

@@ -20,7 +20,7 @@ import cucumber.api.junit.Cucumber;
 				"junit:target/cucumber-junit-report",
         "com.cucumber.listener.ExtentCucumberFormatter:target/Extentreports/Extentreport.html"},
 				
-	  //tags = {"@TC_05_crossword",},
+	 // tags = {"@TC_01_crossword","@TC_02_crossword","@TC_03_crossword","@TC_04_crossword","@TC_05_crossword"},
 		monochrome = true,
 	
 		strict = true
