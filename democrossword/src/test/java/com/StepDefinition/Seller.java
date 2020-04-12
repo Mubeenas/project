@@ -5,12 +5,11 @@ import org.apache.logging.log4j.Logger;
 
 import com.baseclass.Library;
 import com.pages.BestSeller;
-
 import com.seleniumutility.ScreenShot;
 
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 
 public class Seller extends Library{
 	Logger LOG = LogManager.getLogger(Login.class.getName());

@@ -3,15 +3,13 @@ package com.StepDefinition;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.Excelutility.Excel;
 import com.baseclass.Library;
 import com.pages.LoginPage;
 import com.seleniumutility.ScreenShot;
 
-
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 
 public class Login extends Library {
 	Logger LOG = LogManager.getLogger(Login.class.getName()); //extents reports
@@ -34,7 +32,8 @@ public class Login extends Library {
 
 	}
 
-	@Then("I enter the {string} and {string}")     //entering the details of login
+//	@Then("I enter the {string} and {string}")     //entering the details of login
+	@Then("^I enter the (.+) and (.+)$")
 	public void i_enter_the__and(String username, String password) {
 		mylogin.details(username, password);
 		LOG.info("Entered Username and Password");

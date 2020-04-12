@@ -18,3 +18,91 @@
 2020-04-12 11:07:38.448 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:45)] - continued shopping
 2020-04-12 11:07:42.307 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:55)] - availble
 2020-04-12 11:07:42.812 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:61)] - ScreenShot took Successfully
+2020-04-12 13:45:12.730 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:22)] - Browser is Launched
+2020-04-12 13:45:16.916 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:31)] - Login Page is Called
+2020-04-12 13:45:17.846 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:39)] - Entered Username and Password
+2020-04-12 13:45:18.205 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:45)] - Clicked on Signin Button
+2020-04-12 13:45:20.729 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:50)] - ScreenShot took Successfully
+2020-04-12 13:45:42.883 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:30)] - launched the application
+2020-04-12 13:46:10.600 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:42)] - user logged into the home page
+2020-04-12 13:46:14.940 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:50)] - user searched the product
+2020-04-12 13:46:57.360 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:32)] - launched the browser
+2020-04-12 13:47:01.281 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:44)] - homepage is opened
+2020-04-12 13:47:03.669 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:52)] - tracked the product
+2020-04-12 13:47:10.559 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:60)] - clicked on submit
+2020-04-12 13:47:11.543 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:63)] - ScreenShot took Successfully
+2020-04-12 13:48:37.679 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:25)] - launched the browser
+2020-04-12 13:48:42.549 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:34)] - wishlist opened
+2020-04-12 13:48:54.546 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:44)] - continued shopping
+2020-04-12 13:48:56.748 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:54)] - availble
+2020-04-12 13:48:57.553 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:60)] - ScreenShot took Successfully
+2020-04-12 14:06:18.658 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:22)] - Browser is Launched
+2020-04-12 14:06:20.910 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:31)] - Login Page is Called
+2020-04-12 14:06:21.461 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:39)] - Entered Username and Password
+2020-04-12 14:06:21.599 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:45)] - Clicked on Signin Button
+2020-04-12 14:06:23.791 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:50)] - ScreenShot took Successfully
+2020-04-12 14:06:46.137 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:30)] - launched the application
+2020-04-12 14:06:55.259 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:42)] - user logged into the home page
+2020-04-12 14:06:59.629 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:50)] - user searched the product
+2020-04-12 14:06:59.774 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:59)] - clicked enter
+2020-04-12 14:07:00.575 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:63)] - ScreenShot took Successfully
+2020-04-12 14:07:17.521 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:32)] - launched the browser
+2020-04-12 14:07:21.063 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:44)] - homepage is opened
+2020-04-12 14:07:22.688 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:52)] - tracked the product
+2020-04-12 14:07:23.560 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:60)] - clicked on submit
+2020-04-12 14:07:24.041 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:63)] - ScreenShot took Successfully
+2020-04-12 14:13:06.131 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:22)] - Browser is Launched
+2020-04-12 14:13:07.656 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:31)] - Login Page is Called
+2020-04-12 14:13:08.063 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:39)] - Entered Username and Password
+2020-04-12 14:13:08.189 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:45)] - Clicked on Signin Button
+2020-04-12 14:13:09.352 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:50)] - ScreenShot took Successfully
+2020-04-12 14:13:28.124 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:30)] - launched the application
+2020-04-12 14:13:43.890 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:42)] - user logged into the home page
+2020-04-12 14:13:45.662 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:50)] - user searched the product
+2020-04-12 14:13:45.734 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:59)] - clicked enter
+2020-04-12 14:13:46.148 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:63)] - ScreenShot took Successfully
+2020-04-12 14:13:58.376 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:32)] - launched the browser
+2020-04-12 14:14:01.418 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:44)] - homepage is opened
+2020-04-12 14:14:04.103 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:52)] - tracked the product
+2020-04-12 14:14:04.805 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:60)] - clicked on submit
+2020-04-12 14:14:05.308 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:63)] - ScreenShot took Successfully
+2020-04-12 14:15:07.439 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:25)] - launched the browser
+2020-04-12 14:15:10.025 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:34)] - wishlist opened
+2020-04-12 14:15:25.532 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:44)] - continued shopping
+2020-04-12 14:15:28.495 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:54)] - availble
+2020-04-12 14:15:29.150 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:60)] - ScreenShot took Successfully
+2020-04-12 15:57:08.371 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:22)] - Browser is Launched
+2020-04-12 15:57:09.699 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:31)] - Login Page is Called
+2020-04-12 15:57:10.117 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:39)] - Entered Username and Password
+2020-04-12 15:57:10.234 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:45)] - Clicked on Signin Button
+2020-04-12 15:57:13.158 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:50)] - ScreenShot took Successfully
+2020-04-12 15:57:32.436 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:30)] - launched the application
+2020-04-12 15:57:41.781 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:42)] - user logged into the home page
+2020-04-12 15:57:45.995 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:50)] - user searched the product
+2020-04-12 15:57:46.107 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:59)] - clicked enter
+2020-04-12 15:57:46.540 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:63)] - ScreenShot took Successfully
+2020-04-12 15:58:04.147 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:32)] - launched the browser
+2020-04-12 15:58:07.870 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:44)] - homepage is opened
+2020-04-12 15:58:11.024 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:52)] - tracked the product
+2020-04-12 15:58:12.234 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:60)] - clicked on submit
+2020-04-12 15:58:12.653 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:63)] - ScreenShot took Successfully
+2020-04-12 16:00:08.383 INFO [main] [com.StepDefinition.Login] [i_launch_the_browser_and_enter_the_url] [com.StepDefinition.Login.i_launch_the_browser_and_enter_the_url(Login.java:22)] - Browser is Launched
+2020-04-12 16:00:09.982 INFO [main] [com.StepDefinition.Login] [login_page_is_opened] [com.StepDefinition.Login.login_page_is_opened(Login.java:31)] - Login Page is Called
+2020-04-12 16:00:10.402 INFO [main] [com.StepDefinition.Login] [i_enter_the__and] [com.StepDefinition.Login.i_enter_the__and(Login.java:39)] - Entered Username and Password
+2020-04-12 16:00:10.528 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:45)] - Clicked on Signin Button
+2020-04-12 16:00:11.148 INFO [main] [com.StepDefinition.Login] [i_click_on_the_signin_button] [com.StepDefinition.Login.i_click_on_the_signin_button(Login.java:50)] - ScreenShot took Successfully
+2020-04-12 16:00:25.741 INFO [main] [com.StepDefinition.Search] [user_launch_the_chrome_application] [com.StepDefinition.Search.user_launch_the_chrome_application(Search.java:30)] - launched the application
+2020-04-12 16:00:30.904 INFO [main] [com.StepDefinition.Search] [the_user_loggedin_to_the_home_page] [com.StepDefinition.Search.the_user_loggedin_to_the_home_page(Search.java:42)] - user logged into the home page
+2020-04-12 16:00:33.997 INFO [main] [com.StepDefinition.Search] [the_user_search_the_product] [com.StepDefinition.Search.the_user_search_the_product(Search.java:50)] - user searched the product
+2020-04-12 16:00:34.076 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:59)] - clicked enter
+2020-04-12 16:00:34.526 INFO [main] [com.StepDefinition.Search] [search_result_are_displayed] [com.StepDefinition.Search.search_result_are_displayed(Search.java:63)] - ScreenShot took Successfully
+2020-04-12 16:00:53.385 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Track.launch_the_browser(Track.java:32)] - launched the browser
+2020-04-12 16:00:59.362 INFO [main] [com.StepDefinition.Login] [the_login_homepage_is_opened] [com.StepDefinition.Track.the_login_homepage_is_opened(Track.java:44)] - homepage is opened
+2020-04-12 16:01:01.608 INFO [main] [com.StepDefinition.Login] [the_user_track_the_product] [com.StepDefinition.Track.the_user_track_the_product(Track.java:52)] - tracked the product
+2020-04-12 16:01:03.380 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:60)] - clicked on submit
+2020-04-12 16:01:03.844 INFO [main] [com.StepDefinition.Login] [click_on_submit_button] [com.StepDefinition.Track.click_on_submit_button(Track.java:63)] - ScreenShot took Successfully
+2020-04-12 16:02:27.490 INFO [main] [com.StepDefinition.Login] [launch_the_browser] [com.StepDefinition.Seller.launch_the_browser(Seller.java:25)] - launched the browser
+2020-04-12 16:02:36.739 INFO [main] [com.StepDefinition.Login] [wishlist_page_is_opened] [com.StepDefinition.Seller.wishlist_page_is_opened(Seller.java:34)] - wishlist opened
+2020-04-12 16:02:59.145 INFO [main] [com.StepDefinition.Login] [continue_shopping] [com.StepDefinition.Seller.continue_shopping(Seller.java:44)] - continued shopping
+2020-04-12 16:03:07.294 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:54)] - availble
+2020-04-12 16:03:08.602 INFO [main] [com.StepDefinition.Login] [tell_me_available] [com.StepDefinition.Seller.tell_me_available(Seller.java:60)] - ScreenShot took Successfully

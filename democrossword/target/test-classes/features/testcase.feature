@@ -6,11 +6,10 @@ Feature: crossword website
  Scenario Outline: validate Login Functionality
 Given I launch the browser and enter the url
 When login page is opened
-Then I enter the "<username>" and "<password>"
+Then I enter the <username> and <password>
 And I click on the signin button
-  
-  Examples: 
-
+ 
+Examples: 
            |username                   	| password         |
            |mubeenas951@gmail.com	      | mubeenask        |
          
@@ -36,8 +35,4 @@ Given launching the browser
 When wishlist page is opened
 Then continue shopping
 Then tell me available
-
-
-
-
 
